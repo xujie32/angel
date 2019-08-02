@@ -11,7 +11,7 @@ Considering that many companies' big data platforms are built with Yarn, we real
 The environment requirements for running Angel on Yarn include:
 
 * A working Hadoop cluster, including Yarn and HDFS
-	* Hadoop >= 2.2.0
+	* Hadoop >= 3.0.0
 
 * A client-side gateway for submitting Angel jobs
 	* Java >= 1.8

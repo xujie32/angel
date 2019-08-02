@@ -10,7 +10,7 @@
 Angel的分布式Yarn运行模式需要的环境，其实也非常简单：
 
 * 一个可以正常运行Hadoop集群，包括Yarn和HDFS
-	* Hadoop >= 2.2.0
+	* Hadoop >= 3.0.0
 
 * 一个用于提交Angel任务的客户端Gateway
 	* Java >= 1.8
